@@ -1,0 +1,16 @@
+.heading{
+    background-color: aqua;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.head{
+    background-color: red;
+    text-align: center;
+}
+
+.lastheader{
+background-color: gray;
+text-align: center;
+font-style: italic;
+}
